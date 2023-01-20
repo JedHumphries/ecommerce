@@ -1,8 +1,9 @@
-import React from 'react'
 
-export default function Confirmation() {
+
+const Confirmation = () => {
   return (
     <div>Confirmation</div>
   )
 }
 
+export default Confirmation
